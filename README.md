@@ -81,6 +81,12 @@ Coinzy_Manual_Testing_Project/
 ├── Bug_Report/
 │   └── Coinzy_Bug_Report.xlsx
 │
+├── Coinzy_Cover_Page
+│
+├── Coinzy_User_Stories
+│
+├── Coinzy_Product_Improvements
+│
 ├── Screenshots/
 │
 └── README.md
